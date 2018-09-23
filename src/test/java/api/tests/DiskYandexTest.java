@@ -1,4 +1,4 @@
-package api;
+package api.tests;
 
 import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.Unirest;

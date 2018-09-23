@@ -13,7 +13,7 @@ import static com.codeborne.selenide.Selectors.byXpath;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.$$;
 import static org.hamcrest.Matchers.*;
-import static ui.WebDriverUtils.closeBrowserActiveTab;
+import static ui.helpers.WebDriverUtils.closeBrowserActiveTab;
 
 /**
  * Created by Rogozin Roman on 22.09.2018.

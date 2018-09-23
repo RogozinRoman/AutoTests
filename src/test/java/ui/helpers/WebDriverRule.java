@@ -1,4 +1,4 @@
-package ui;
+package ui.helpers;
 
 import com.codeborne.selenide.WebDriverRunner;
 import org.junit.rules.TestRule;

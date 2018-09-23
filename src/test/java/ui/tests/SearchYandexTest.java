@@ -3,7 +3,7 @@ package ui.tests;
 import org.junit.Rule;
 import org.junit.Test;
 import ru.yandex.qatools.allure.annotations.Title;
-import ui.WebDriverRule;
+import ui.helpers.WebDriverRule;
 import ui.pages.MainYandexPage;
 
 /**
