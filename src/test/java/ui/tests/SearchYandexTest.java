@@ -37,7 +37,7 @@ public class SearchYandexTest {
 
     @Title("Переход по ссылке из результата поиска")
     @Test
-    public void YandexExampleSearch(){
+    public void yandexExampleSearch(){
         String search = "selenide";
         new MainYandexPage().
                 openMainPage().
